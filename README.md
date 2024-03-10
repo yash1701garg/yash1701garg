@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Garg</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash1701garg&label=Profile%20views&color=0e75b6&style=flat" alt="yash1701garg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash1701garg" alt="yash1701garg" /></a> </p>
-
 - 🌱 I’m currently learning **Tailwind**
 
 - 💬 Ask me about **Html,CSS,Java,Tailwind,Javascript**
@@ -27,6 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash1701garg&show_icons=true&locale=en&layout=compact" alt="yash1701garg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash1701garg&show_icons=true&locale=en" alt="yash1701garg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash1701garg&" alt="yash1701garg" /></p>
 
